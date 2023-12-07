@@ -13,7 +13,7 @@ export default function Hero() {
             >
                 <div className="container text-white text-center">
                     <h1 className="text-4xl font-bold mb-4 text-amber-300">Welcome at PRINTIS</h1>
-                    <p className="text-md font-semibold mb-6 text-primary">Solusi Cetak dan Desain keren dengan harga bersahabat </p>
+                    <p className="text-md font-semibold mb-6 text-primary">Cool Printing and Design Solutions at Affordable Prices</p>
                     <Link to="/" className="p-3 rounded-sm hover:bg-red-600 font-base bg-primary">Explore Now</Link>
                 </div>
             </div>

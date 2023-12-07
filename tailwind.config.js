@@ -11,7 +11,7 @@ export default {
         padding: '20px',
       },
       colors: {
-        primary: '#10b981',
+        primary: '#0284c7',
         dark: '#0f172a'
       },
       screens: {

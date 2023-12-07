@@ -3,7 +3,7 @@ import React from 'react'
 export default function Services() {
     return (
         <div className='container px-36'>
-            <h1 className="block text-2xl font-bold lg:text-4xl text-primary font-poppinsy text-center">Mengapa memilih PRINTIS?</h1>
+            <h1 className="block text-2xl font-bold lg:text-4xl text-primary font-poppinsy text-center">Why should you choose PRINTIS?</h1>
             <div class="w-full pt-16">
                 <div class=" flex flex-wrap items-center justify-center lg:gap-20">
                     <div

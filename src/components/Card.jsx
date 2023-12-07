@@ -3,7 +3,7 @@ import React from 'react'
 export default function Card() {
     return (
         <div className='container mb-20'>
-            <h1 className='text-3xl font-bold font-chillax pt-10 md:pt-20 pb-10'>Jasa dari Kami</h1>
+            <h1 className='text-3xl font-bold font-chillax pt-10 md:pt-20 pb-10'>Our Services</h1>
             <div className="flex flex-wrap justify-center gap-10">
 
                 <div className="max-w-sm rounded overflow-hidden relative sm:flex sm:justify-center cursor-pointer">
