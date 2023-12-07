@@ -18,7 +18,10 @@ export default function Navbar() {
         <div>
             <nav className="fixed w-full bg-primary p-4 z-10 shadow-md">
                 <div className="mx-auto flex justify-between items-center">
+                    
+                        {/* <img src="/logo.png" alt="Logo" width={50} className='mx-10' /> */}
                         <div className="text-white text-2xl font-bold font-chillax lg:mx-12">PRINTI<span className='text-amber-300'>S</span></div>
+                  
                     <div className="hidden md:flex space-x-8 mx-8 ">
                         <Link
                             to="/"
